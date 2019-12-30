@@ -1,0 +1,6 @@
+{
+"labelID1": "hello",
+"labelID2": "test",
+"snail_count" : "%1 has eaten %2 snails out of %3 snails",
+"snail_count2" : "1 % has eaten 1 % snails out of 3 % snails"
+}
